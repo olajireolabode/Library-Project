@@ -1,0 +1,260 @@
+C:\Users\2062678\source\repos\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.exe
+C:\Users\2062678\source\repos\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.deps.json
+C:\Users\2062678\source\repos\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.runtimeconfig.json
+C:\Users\2062678\source\repos\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.dll
+C:\Users\2062678\source\repos\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.pdb
+C:\Users\2062678\source\repos\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.csproj.AssemblyReference.cache
+C:\Users\2062678\source\repos\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.Form1.resources
+C:\Users\2062678\source\repos\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.Properties.Resources.resources
+C:\Users\2062678\source\repos\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.csproj.GenerateResource.cache
+C:\Users\2062678\source\repos\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2062678\source\repos\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.AssemblyInfoInputs.cache
+C:\Users\2062678\source\repos\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.AssemblyInfo.cs
+C:\Users\2062678\source\repos\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.csproj.CoreCompileInputs.cache
+C:\Users\2062678\source\repos\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.dll
+C:\Users\2062678\source\repos\ProApp\ProApp\obj\Debug\net6.0-windows\refint\ProApp.dll
+C:\Users\2062678\source\repos\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.pdb
+C:\Users\2062678\source\repos\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.genruntimeconfig.cache
+C:\Users\2062678\source\repos\ProApp\ProApp\obj\Debug\net6.0-windows\ref\ProApp.dll
+C:\Users\davic\Desktop\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.exe
+C:\Users\davic\Desktop\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.deps.json
+C:\Users\davic\Desktop\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.runtimeconfig.json
+C:\Users\davic\Desktop\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.dll
+C:\Users\davic\Desktop\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.pdb
+C:\Users\davic\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.csproj.AssemblyReference.cache
+C:\Users\davic\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.Form1.resources
+C:\Users\davic\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.Properties.Resources.resources
+C:\Users\davic\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.csproj.GenerateResource.cache
+C:\Users\davic\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davic\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.AssemblyInfoInputs.cache
+C:\Users\davic\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.AssemblyInfo.cs
+C:\Users\davic\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.csproj.CoreCompileInputs.cache
+C:\Users\davic\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.dll
+C:\Users\davic\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\refint\ProApp.dll
+C:\Users\davic\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.pdb
+C:\Users\davic\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.genruntimeconfig.cache
+C:\Users\davic\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ref\ProApp.dll
+C:\Users\davic\Desktop\ProApp\ProApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\davic\Desktop\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\davic\Desktop\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\davic\Desktop\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\davic\Desktop\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\davic\Desktop\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\davic\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.MainStaff.resources
+C:\Users\davic\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.SpplierMain.resources
+C:\Users\davic\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.UserMain.resources
+C:\Users\davic\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.csproj.CopyComplete
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.exe
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.deps.json
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.runtimeconfig.json
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.dll
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.pdb
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.csproj.AssemblyReference.cache
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.Form1.resources
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.MainStaff.resources
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.Properties.Resources.resources
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.SpplierMain.resources
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.UserMain.resources
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.csproj.GenerateResource.cache
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.AssemblyInfoInputs.cache
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.AssemblyInfo.cs
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.csproj.CoreCompileInputs.cache
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.csproj.CopyComplete
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.dll
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\obj\Debug\net6.0-windows\refint\ProApp.dll
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.pdb
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.genruntimeconfig.cache
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\obj\Debug\net6.0-windows\ref\ProApp.dll
+C:\Users\davic\Desktop\New folder (2)\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.User2.resources
+C:\Users\2062678\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.csproj.AssemblyReference.cache
+C:\Users\2062678\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.dll
+C:\Users\2062678\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\refint\ProApp.dll
+C:\Users\2062678\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.pdb
+C:\Users\2062678\Desktop\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.exe
+C:\Users\2062678\Desktop\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.deps.json
+C:\Users\2062678\Desktop\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.runtimeconfig.json
+C:\Users\2062678\Desktop\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.dll
+C:\Users\2062678\Desktop\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.pdb
+C:\Users\2062678\Desktop\ProApp\ProApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\2062678\Desktop\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\2062678\Desktop\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\2062678\Desktop\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\2062678\Desktop\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\2062678\Desktop\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\2062678\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.Form1.resources
+C:\Users\2062678\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.MainStaff.resources
+C:\Users\2062678\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.Properties.Resources.resources
+C:\Users\2062678\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.SpplierMain.resources
+C:\Users\2062678\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.User2.resources
+C:\Users\2062678\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.csproj.GenerateResource.cache
+C:\Users\2062678\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2062678\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.AssemblyInfoInputs.cache
+C:\Users\2062678\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.AssemblyInfo.cs
+C:\Users\2062678\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.csproj.CoreCompileInputs.cache
+C:\Users\2062678\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.csproj.CopyComplete
+C:\Users\2062678\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.genruntimeconfig.cache
+C:\Users\2062678\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ref\ProApp.dll
+C:\Users\2062678\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.MainUser.resources
+C:\Users\2062678\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.Register.resources
+C:\Users\2062678\Desktop\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.RegisterMemberShip.resources
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.exe
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\DBLibrary.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\DBLibrary.pdb
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\DBLibrary.dll.config
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\EntityFramework.xml
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\EntityFramework.SqlServer.xml
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.csproj.AssemblyReference.cache
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.Form1.resources
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.MainStaff.resources
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.MainUser.resources
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.Properties.Resources.resources
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.RegisterMemberShip.resources
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.SpplierMain.resources
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.User2.resources
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.csproj.GenerateResource.cache
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.AssemblyInfoInputs.cache
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.AssemblyInfo.cs
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.csproj.CoreCompileInputs.cache
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.csproj.CopyComplete
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\refint\ProApp.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.pdb
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.deps.json
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.runtimeconfig.json
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.pdb
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.genruntimeconfig.cache
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ref\ProApp.dll
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.BookEdit.resources
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.exe
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.deps.json
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.runtimeconfig.json
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.pdb
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Humanizer.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.csproj.AssemblyReference.cache
+D:\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.Form1.resources
+D:\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.BookEdit.resources
+D:\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.MainStaff.resources
+D:\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.MainUser.resources
+D:\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.Properties.Resources.resources
+D:\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.RegisterMemberShip.resources
+D:\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.SpplierMain.resources
+D:\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.csproj.GenerateResource.cache
+D:\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.AssemblyInfoInputs.cache
+D:\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.AssemblyInfo.cs
+D:\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.csproj.CoreCompileInputs.cache
+D:\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.csproj.CopyComplete
+D:\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.dll
+D:\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\refint\ProApp.dll
+D:\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.pdb
+D:\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ProApp.genruntimeconfig.cache
+D:\ProApp\ProApp\ProApp\obj\Debug\net6.0-windows\ref\ProApp.dll

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ProApp</id>
+    <version>1.0.0</version>
+    <authors>ProApp</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="Microsoft.EntityFrameworkCore" version="7.0.5" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="7.0.5" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.runtimeconfig.json" target="lib\net6.0-windows7.0\ProApp.runtimeconfig.json" />
+    <file src="D:\ProApp\ProApp\ProApp\bin\Debug\net6.0-windows\ProApp.dll" target="lib\net6.0-windows7.0\ProApp.dll" />
+  </files>
+</package>

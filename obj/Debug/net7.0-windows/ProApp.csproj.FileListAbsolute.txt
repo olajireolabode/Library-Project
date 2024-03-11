@@ -1,0 +1,14 @@
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net7.0-windows\ProApp.csproj.AssemblyReference.cache
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net7.0-windows\ProApp.Form1.resources
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net7.0-windows\ProApp.MainStaff.resources
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net7.0-windows\ProApp.MainUser.resources
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net7.0-windows\ProApp.Properties.Resources.resources
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net7.0-windows\ProApp.Register.resources
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net7.0-windows\ProApp.RegisterMemberShip.resources
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net7.0-windows\ProApp.SpplierMain.resources
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net7.0-windows\ProApp.User2.resources
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net7.0-windows\ProApp.csproj.GenerateResource.cache
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net7.0-windows\ProApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net7.0-windows\ProApp.AssemblyInfoInputs.cache
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net7.0-windows\ProApp.AssemblyInfo.cs
+C:\Users\simon\Downloads\ProApp\ProApp\ProApp\obj\Debug\net7.0-windows\ProApp.csproj.CoreCompileInputs.cache
